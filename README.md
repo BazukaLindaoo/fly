@@ -55,7 +55,7 @@ up.Size = UDim2.new(0, 44, 0, 28)
 
 up.Font = Enum.Font.SourceSans
 
-up.Text = "â†‘"
+up.Text = "up‘"
 
 up.TextColor3 = Color3.fromRGB(0, 0, 0)
 
@@ -75,7 +75,7 @@ down.Size = UDim2.new(0, 44, 0, 28)
 
 down.Font = Enum.Font.SourceSans
 
-down.Text = "â†“"
+down.Text = "down“"
 
 down.TextColor3 = Color3.fromRGB(0, 0, 0)
 
@@ -113,7 +113,7 @@ TextLabel.Size = UDim2.new(0, 100, 0, 28)
 
 TextLabel.Font = Enum.Font.Michroma
 
-TextLabel.Text = "Fly gui modded"
+TextLabel.Text = "Fly Bazuka Hub"
 
 TextLabel.TextColor3 = Color3.fromRGB(0, 0, 0)
 
