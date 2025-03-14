@@ -113,7 +113,7 @@ TextLabel.Size = UDim2.new(0, 100, 0, 28)
 
 TextLabel.Font = Enum.Font.Michroma
 
-TextLabel.Text = "Fly Bazuka Hub"
+TextLabel.Text = "Bazuka Hub"
 
 TextLabel.TextColor3 = Color3.fromRGB(0, 0, 0)
 
